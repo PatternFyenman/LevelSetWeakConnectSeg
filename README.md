@@ -66,7 +66,17 @@ https://user-images.githubusercontent.com/82517756/203458117-a1a02881-9698-4154-
 
 # 运行程序指南
 我的运行环境：
-python 3.9
+python 3.10.6
+
+确保您的计算机已pip install以下第三方库。
+- matplotlib==3.6.2
+- numpy==1.23.5
+- opencv_python==4.6.0.66
+- scikit_image==0.19.3
+- scipy==1.9.3
+- skimage==0.0
+- taichi==1.2.2
+- tqdm==4.64.1
 
 在命令行运行如下指令，看看未使用taichi时对于1024x1024大小的图像，DRLSE模型迭代400次所需要的时间。
 ```shell
