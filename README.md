@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/82517756/203458117-a1a02881-9698-4154-
 ![running_environment](https://user-images.githubusercontent.com/82517756/205471867-52697bd5-15c3-4f9b-9186-e29fcde09799.png)
 
 
-我的python版本是3.10.6确保您的计算机已pip install以下第三方库。
+我的python版本是3.10.6，确保您的计算机已pip install以下第三方库。
 - matplotlib==3.6.2
 - numpy==1.23.5
 - opencv_python==4.6.0.66
